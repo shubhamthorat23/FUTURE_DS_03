@@ -41,8 +41,7 @@ The objective is to understand conversion performance and identify where users d
 ## 📸 Dashboard Preview
 (Add your dashboard screenshot here)
 
-[Dashboard]([https://github.com/username/repo-name/image.png](https://github.com/shubhamthorat23/FUTURE_DS_03/blob/main/DashboardScreenshot.png
-)
+![Dashboard](https://raw.githubusercontent.com/shubhamthorat23/FUTURE_DS_03/main/DashboardScreenshot.png)
 
 ## 📈 Key Insights
 - Significant drop-off observed before purchase stage  
