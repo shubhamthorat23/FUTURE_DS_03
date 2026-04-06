@@ -39,7 +39,6 @@ The objective is to understand conversion performance and identify where users d
 ---
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
 
 ![Dashboard](https://raw.githubusercontent.com/shubhamthorat23/FUTURE_DS_03/main/DashboardScreenshot.png)
 
