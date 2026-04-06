@@ -38,10 +38,6 @@ The objective is to understand conversion performance and identify where users d
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard](https://raw.githubusercontent.com/shubhamthorat23/FUTURE_DS_03/main/DashboardScreenshot.png)
-
 ## 📈 Key Insights
 - Significant drop-off observed before purchase stage  
 - User activity increased over time  
@@ -54,8 +50,9 @@ The objective is to understand conversion performance and identify where users d
 - Tableau Dashboard (.twbx)  
 - Dataset (CSV/Excel)  
 - Dashboard Screenshot  
-https://github.com/shubhamthorat23/FUTURE_DS_03/blob/main/DashboardScreenshot.png
----
+## 📸 Dashboard Preview
+
+![Dashboard](https://raw.githubusercontent.com/shubhamthorat23/FUTURE_DS_03/main/DashboardScreenshot.png)
 
 ## 👨‍💻 Author
 **Shubham Thorat**  
